@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there 👋, I'm Dong</h1>
+<h1 align="center">Hi there 👋, I'm Ttieen</h1>
 
 <!-- #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
    
@@ -22,8 +22,8 @@
 [![](https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=dotnet&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/-VueJS-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](#)
+
+
 
 <!--
 **maitientientien/maitientientien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
