@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 <h1 align="center">I'm Tien </h1>
 
 <!-- #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=dotnet&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#)
-
+-->
 
 
 <!--
